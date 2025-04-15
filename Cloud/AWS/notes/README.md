@@ -54,7 +54,7 @@ How to choose region:
 
 **AWS Availability zones:**
 
-→ each region has many availability zone (usually 3 , min 3 and max 6).
+→ each region has three or more availability zone (usually 3 , min 3 and max 6).
 
 → each availability zone is one or more discrete data centres with redundant power, networking and datacentres.
 
