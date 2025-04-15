@@ -65,3 +65,4 @@ How to choose region:
 **Shared responsibility model:**
 
 ![sharedResponsibilityModel.png](https://github.com/sathyapriya-t/Notes/blob/f685261b7822b5f3cc853cc191593ad46fe0e64e/Cloud/AWS/resources/sharedResposibilityModel.png)
+
