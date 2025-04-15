@@ -23,3 +23,45 @@ Cloud computing
 4. **Elasticity:** able to scale up and scale in when needed
 5. **High Availability and Fault Tolerance**: build across data centre
 6. **Agility**: Rapidly develop, test and launch software application
+
+**Types of Cloud Computing:**
+
+![Types of cloud.png](Cloud/AWS/resources/iass.png)
+
+**Pricing of Cloud:**
+
+AWS has three fundamental pricing model as pay-as-you-go:
+
+*1. Compute:* pay for the computing time
+
+*2. Storage:* pay for data stored in cloud
+
+*3. Data* transfer *out of cloud*: data transfer IN is free.
+
+**AWS Region:**
+
+- region is cluster of data centers
+- names can be us-east-1, us-east-2
+- aws region is all around the world.
+
+How to choose region:
+
+→ compliance with data governance
+
+→ Proximity to customers (If it is in distance it will add latency)
+
+→ Pricing varies region to region.
+
+**AWS Availability zones:**
+
+→ each region has many availability zone (usually 3 , min 3 and max 6).
+
+→ each availability zone is one or more discrete data centres with redundant power, networking and datacentres.
+
+**AWS Point of presence (Edge location):**
+
+→400+ edge location in 90+ cities.
+
+**Shared responsibility model:**
+
+![sharedResponsibilityModel.png](Cloud/AWS/resources/sharedResposibilityModel.png)
