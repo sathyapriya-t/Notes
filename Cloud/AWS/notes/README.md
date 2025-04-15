@@ -26,7 +26,7 @@ Cloud computing
 
 **Types of Cloud Computing:**
 
-![Types of cloud.png](Cloud/AWS/resources/iass.png)
+![Types of cloud.png](https://github.com/sathyapriya-t/Notes/blob/f685261b7822b5f3cc853cc191593ad46fe0e64e/Cloud/AWS/resources/iass.png)
 
 **Pricing of Cloud:**
 
@@ -64,4 +64,4 @@ How to choose region:
 
 **Shared responsibility model:**
 
-![sharedResponsibilityModel.png](Cloud/AWS/resources/sharedResposibilityModel.png)
+![sharedResponsibilityModel.png](https://github.com/sathyapriya-t/Notes/blob/f685261b7822b5f3cc853cc191593ad46fe0e64e/Cloud/AWS/resources/sharedResposibilityModel.png)
