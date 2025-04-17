@@ -24,7 +24,7 @@ example:
 
 → In aws, you can apply the least privilege principle: don’t give more permission then the user needs.
 
-![image.png](attachment:c41f0d52-a0fa-4a13-ae0a-878979350b7c:image.png)
+![IAM_Permissions.png](https://github.com/sathyapriya-t/Notes/blob/bcd8479add66264ae412f32d80a463d03ca3140b/Cloud/AWS/resources/IAM_Permissions.png)
 
 There are totally 2 account:
 
@@ -38,16 +38,16 @@ https://sathya-aws-developer.signin.aws.amazon.com/console
 
 **IAM Group:**
 
-![image.png](attachment:68627f41-d15a-4ffc-add2-cae2e256ac3e:image.png)
+![IAM_GROUP.png](https://github.com/sathyapriya-t/Notes/blob/bcd8479add66264ae412f32d80a463d03ca3140b/Cloud/AWS/resources/IAM_GROUP.png)
 
 **IAM User:**
 
-![image.png](attachment:644677d2-0f75-4af7-80f3-5cd4dec9b0e9:image.png)
+![IAM_USER.png](https://github.com/sathyapriya-t/Notes/blob/bcd8479add66264ae412f32d80a463d03ca3140b/Cloud/AWS/resources/IAM_USER.png)
 
 Root IAM Dashboard where user is created :
 
-![image.png](attachment:fa447d44-870a-4663-9750-bff728b100c8:image.png)
+![ROOT_IAM_DASHBOARD.png](https://github.com/sathyapriya-t/Notes/blob/bcd8479add66264ae412f32d80a463d03ca3140b/Cloud/AWS/resources/ROOT_IAM_DASHBOARD.png)
 
 IAM user created using the root account:
 
-![image.png](attachment:fa09f19e-64c9-4071-9e94-2d8886e839ec:image.png)
+![IAM_USER_ACCOUNT.png](https://github.com/sathyapriya-t/Notes/blob/bcd8479add66264ae412f32d80a463d03ca3140b/Cloud/AWS/resources/IAM_USER_ACCOUNT.png)
